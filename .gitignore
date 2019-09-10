@@ -1,0 +1,9 @@
+# python 3
+__pychache__
+
+# jupyter
+.ipynb_checkpoints
+
+# vim
+*.swp
+
